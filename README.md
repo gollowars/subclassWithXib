@@ -1,0 +1,1 @@
+# xibをつかってUIViewのsubclassを作るとき
